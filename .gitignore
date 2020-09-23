@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+fix_table.sql
+insert_table.sql
+create_table.sql
+.env
+*.db
