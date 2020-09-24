@@ -3,5 +3,7 @@ __pycache__
 fix_table.sql
 insert_table.sql
 create_table.sql
+create_table_mysql.sql
 .env
 *.db
+steps.txt
